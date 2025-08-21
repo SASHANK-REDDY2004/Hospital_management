@@ -30,5 +30,15 @@ The project is built fully with **Java OOP concepts**.
 ---
 
 ## 🔑 Menu Options
-When you run the program, you will see:  
+When you run the program, you will see:
+Hospital Management System
+
+1.Register Patient
+2.Assign Doctor
+3.Schedule Appointment
+4.Generate Bill
+5.View All Patients
+6.View Doctor Schedules
+7.View Patient Schedules
+8.Exit
 
